@@ -56,8 +56,46 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2,1]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
 
+# Read csv file:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/60fbf767-4631-44d5-9926-2c24d3b628e2)
+
+# Dataset info:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/c883f44b-7db1-4085-bd21-7fe0e5cf985d)
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/818d29c1-0319-4ad5-85bf-42e6b8ad4488)
+
+# Dataset Value count:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/79d18e09-70f9-470f-90d4-53c6a825af93)
+
+# Dataset head:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/65a4703e-2083-45ec-81f4-463a1a302574)
+
+# Data info:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/0374428c-44d8-4a2c-a72a-6b3f2d820604)
+
+# Dataset shape:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/24970a9c-945c-4e0f-aeb2-fbdd4f82a8ee)
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/105592b3-78be-48dc-a29a-65f26ce957e5)
+
+# Y-Pred:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/417f3652-06e2-4fa6-9d79-16dd29a2cec1)
+
+# Accuracy:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/bedddd9e-cb40-4b59-9257-26e0afc28ae7)
+
+# Dataset Predict:
+
+![image](https://github.com/shalinikannan23/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118656529/a6d636e5-3a36-4016-b04b-b7a38512cae0)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
